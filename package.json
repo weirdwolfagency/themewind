@@ -1,0 +1,30 @@
+{
+  "name": "@weirdwolfagency/themewind",
+  "version": "1.0.0",
+  "description": "Tailwind theming with optional shade generation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirdwolfagency/themewind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "themes",
+    "theming",
+    "css",
+    "colors",
+    "generator",
+    "shading"
+  ],
+  "author": "Weird Wolf LTD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weirdwolfagency/themewind/issues"
+  },
+  "devDependencies": {
+    "color-convert": "^2.0.1",
+    "tailwindcss": "^3.2.7"
+  },
+  "homepage": "https://github.com/weirdwolfagency/themewind#readme"
+}
