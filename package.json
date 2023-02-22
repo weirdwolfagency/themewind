@@ -1,6 +1,6 @@
 {
   "name": "@weirdwolfagency/themewind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind theming with optional shade generation",
   "main": "index.js",
   "scripts": {},
@@ -22,9 +22,11 @@
   "bugs": {
     "url": "https://github.com/weirdwolfagency/themewind/issues"
   },
+  "homepage": "https://github.com/weirdwolfagency/themewind#readme",
   "devDependencies": {
-    "color-convert": "^2.0.1",
     "tailwindcss": "^3.2.7"
   },
-  "homepage": "https://github.com/weirdwolfagency/themewind#readme"
+  "dependencies": {
+    "color-convert": "^2.0.1"
+  }
 }
